@@ -1,0 +1,22 @@
+.carousel-inner > .item{
+    width: 100%;
+    height: auto;
+}
+
+.carousel-inner > .item > image{
+    width: 100%;
+    height: 100%;
+    margin: auto
+}
+
+.padTopOrBottom{
+    padding: 10px;
+}
+
+.ul{
+    width: 100%;
+    height: auto;
+}
+.ul .li{
+    color: goldenrod;
+}
